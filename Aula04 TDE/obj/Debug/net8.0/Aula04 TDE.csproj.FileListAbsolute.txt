@@ -1,0 +1,14 @@
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\bin\Debug\net8.0\Aula04 TDE.exe
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\bin\Debug\net8.0\Aula04 TDE.deps.json
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\bin\Debug\net8.0\Aula04 TDE.runtimeconfig.json
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\bin\Debug\net8.0\Aula04 TDE.dll
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\bin\Debug\net8.0\Aula04 TDE.pdb
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.AssemblyInfoInputs.cache
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.AssemblyInfo.cs
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.csproj.CoreCompileInputs.cache
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.dll
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\refint\Aula04 TDE.dll
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.pdb
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\Aula04 TDE.genruntimeconfig.cache
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\Aula04 TDE\obj\Debug\net8.0\ref\Aula04 TDE.dll
